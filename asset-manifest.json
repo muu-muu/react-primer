@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/react-primer/static/js/main.d383429a.chunk.js",
+    "main.js.map": "/react-primer/static/js/main.d383429a.chunk.js.map",
+    "runtime-main.js": "/react-primer/static/js/runtime-main.a133845f.js",
+    "runtime-main.js.map": "/react-primer/static/js/runtime-main.a133845f.js.map",
+    "static/js/2.714b8af0.chunk.js": "/react-primer/static/js/2.714b8af0.chunk.js",
+    "static/js/2.714b8af0.chunk.js.map": "/react-primer/static/js/2.714b8af0.chunk.js.map",
+    "index.html": "/react-primer/index.html",
+    "static/js/2.714b8af0.chunk.js.LICENSE.txt": "/react-primer/static/js/2.714b8af0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a133845f.js",
+    "static/js/2.714b8af0.chunk.js",
+    "static/js/main.d383429a.chunk.js"
+  ]
+}
